@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+img{
+    max-width: 100%;
+}
 /* carousel section  */
 .slider-item {
     height: 100vh;
@@ -33,4 +36,8 @@
 .btn_register{
     background: #fff;
    
+}
+
+.logo_area img{
+    width: 80px;
 }
